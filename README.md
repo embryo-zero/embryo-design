@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Design
+
+**Embryo Design** is Embryo-Zero's fork of [penpot](https://github.com/penpot/penpot), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <img width="100%" src="https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602" />
 
 [uri_license]: https://www.mozilla.org/en-US/MPL/2.0
